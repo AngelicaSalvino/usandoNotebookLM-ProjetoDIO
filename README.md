@@ -71,5 +71,5 @@ Foram utilizadas fontes institucionais e abertas:
 - **Comissão de Valores Mobiliários (CVM)**
   - Conteúdo educativo sobre inflação e juros  
 
-Os arquivos utilizados encontram-se na pasta:
+Os arquivos utilizados encontram-se carregados.
 
