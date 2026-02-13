@@ -7,7 +7,7 @@
 
 Este projeto foi desenvolvido como parte do **Bootcamp Riachuelo – Cibersegurança**, oferecido pela DIO (Digital Innovation One).
 
-🔗 Bootcamp: Cibersegurança https://www.dio.me/bootcamp/riachuelo-ciberseguranca  
+🔗 Bootcamp: [Cibersegurança](https://www.dio.me/bootcamp/riachuelo-ciberseguranca)  
 📚 Disciplina: *Acelere sua aprendizagem com IA: Explore o poder do NotebookLM*
 
 A atividade propõe o uso do **NotebookLM** como ferramenta de aprendizagem ativa, combinando curadoria de fontes, pensamento crítico e engenharia de prompts.
